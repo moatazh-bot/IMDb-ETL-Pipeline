@@ -1,0 +1,12 @@
+2026-Jan-26-21:58:01 : ETL Started
+2026-Jan-26-21:58:01 : data extraction started
+2026-Jan-26-21:58:16 : data extraction finished, data transformation started
+2026-Jan-26-21:58:16 : data transformation  finished, data loading started
+2026-Jan-26-21:58:16 : data loading finished
+2026-Jan-26-21:58:16 : ETL Finished
+2026-Jan-26-21:58:21 : ETL Started
+2026-Jan-26-21:58:21 : data extraction started
+2026-Jan-26-21:58:23 : data extraction finished, data transformation started
+2026-Jan-26-21:58:23 : data transformation  finished, data loading started
+2026-Jan-26-21:58:23 : data loading finished
+2026-Jan-26-21:58:23 : ETL Finished
