@@ -7,10 +7,6 @@ from datetime import datetime
 
 URL = 'https://web.archive.org/web/20230531010141/https://www.imdb.com/chart/top/'
 
-def log_progress(message):
-
-    pass
-
 
 def extract(url):
     page = requests.get(url).text
