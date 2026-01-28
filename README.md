@@ -14,8 +14,8 @@ A high-performance **ETL (Extract, Transform, Load)** pipeline built with Python
 
 ---
 
- 🛠️ Project Structure
-
+ ##🛠️ Project Structure
+```text
 movie-etl-project/
 ├── data/
 │   └── Movies.db               # SQLite database (generated automatically)
